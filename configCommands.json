@@ -7,8 +7,8 @@
   "envCommands": {
     "daily": {
       "rewardFirstDay": {
-        "coin": 100,
-        "exp": 10
+        "coin": 10000,
+        "exp": 100
       }
     },
     "notification": {
